@@ -83,6 +83,3 @@ streamlit run main.py
 ```
 ## Accessing The Full Source Code
 The complete source code for APEX Suite is stored in a private GitHub repository to protect intellectual property. I will gladly grant temporary access to the repository to the technical team upon request during the interview process.
-
-## Live App on Streamlit
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://apex-suite.streamlit.app)
